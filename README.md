@@ -25,4 +25,3 @@
 * Carlos Rojas Valdés
 * Nicolás Quintana
 * Carlos Moreno
-* Matias Saldias
